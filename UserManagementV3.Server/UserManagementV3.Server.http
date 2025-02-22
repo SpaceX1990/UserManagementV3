@@ -1,0 +1,6 @@
+@UserManagementV3.Server_HostAddress = http://localhost:5010
+
+GET {{UserManagementV3.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
